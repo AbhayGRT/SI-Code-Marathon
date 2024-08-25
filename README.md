@@ -39,7 +39,6 @@ Create a New Database in PostgreSQL for the application.
 
 5. Configure the Backend
 Update Connection String: Edit Sponsorship_Management/Server/appsettings.json and replace the connection string with your PostgreSQL connection details.
-
 Configure CORS and Database Name: Open Program.cs and ensure that CORS and the database name are properly configured according to your setup.
 
 5. Start the Application
