@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { GetDataQ4 } from "./GetDatQ4";
+import { GetDataQ4 } from "./GetDataQ4";
 
 const Q4 = () => {
 
